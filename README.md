@@ -31,6 +31,10 @@ Run the script from the command line with the desired color (in hex format) and 
 
 `python taptok_harmonizer.py -c "#32a852" -v 5`
 
+![TAPTOK UI Color Harmonizer](Screenshot3.png)
+![TAPTOK UI Color Harmonizer](Screenshot4.png)
+
+
 ### Parameters
 - `-c` or `--color`: Base color in hex format (e.g., `#32a852`).
 - `-v` or `--variations`: Number of color variations to generate (default: 4).
